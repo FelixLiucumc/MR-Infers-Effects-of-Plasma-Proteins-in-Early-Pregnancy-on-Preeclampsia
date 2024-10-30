@@ -1,0 +1,2 @@
+# Mendelian-randomization-Infers-Effects-of-Plasma-Proteins-in-Early-Pregnancy-on-Preeclampsia
+I completed plasma proteomic profiling of 6,851 proteins during early pregnancy and genotyping for 1,850 women in the 10,038 nuMoM2b study cohort. then leveraged 20 large external GWAS summary statistics related to reproductive features (e.g. preeclampsia, sex hormone-binding globulin) to perform a two-sample Mendelian Randomization (MR).
